@@ -55,16 +55,19 @@ To access the web frontend, run the following command to create a tunnel:
 minikube service frontend
 
 <br>
-# SITE ONLINE BOUTIQUE
+# Site Online Boutique
 <img width="1684" height="893" alt="kubernetes" src="https://github.com/user-attachments/assets/4abe6848-ffcd-4eef-9fd7-d68465c5c258" />
 
 <br> 
 This following diagram visualizes the communication flow within the Online Boutique cloud-native application. 
 Understanding this architecture is crucial to grasping how Kubernetes coordinates these 12 distinct service tiers.
 <br>
+
 <img width="662" height="308" alt="image" src="https://github.com/user-attachments/assets/27fa52e6-0f4b-4f41-a873-d4f86410e03e" />
 <br>
+
 Kubernetes Dashboard (Workload Status)
+
 <br>
 <img width="720" height="201" alt="image" src="https://github.com/user-attachments/assets/bbb3ce10-b831-4e48-b44f-8b2058ac0e7f" />
 
