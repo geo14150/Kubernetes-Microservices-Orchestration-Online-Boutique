@@ -45,7 +45,7 @@ Navigate to the project root and apply the Kubernetes manifests:
 
 kubectl apply -f ./release/kubernetes-manifests.yaml
 
-# Kubernetes Pods Status
+# Kubernetes Pods Status <br>
 <img width="854" height="381" alt="getpods" src="https://github.com/user-attachments/assets/f2581107-b5d3-4c7d-a5e6-ab9f336595f5" />
 
 <br>
@@ -61,7 +61,11 @@ minikube service frontend
 <br> 
 This following diagram visualizes the communication flow within the Online Boutique cloud-native application. 
 Understanding this architecture is crucial to grasping how Kubernetes coordinates these 12 distinct service tiers.
-
+<br>
 <img width="662" height="308" alt="image" src="https://github.com/user-attachments/assets/27fa52e6-0f4b-4f41-a873-d4f86410e03e" />
+<br>
+Kubernetes Dashboard (Workload Status)
+<br>
+<img width="720" height="201" alt="image" src="https://github.com/user-attachments/assets/bbb3ce10-b831-4e48-b44f-8b2058ac0e7f" />
 
 
