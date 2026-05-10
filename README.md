@@ -1,8 +1,6 @@
 # Kubernetes-Microservices-Orchestration-Online-Boutique
 This repository demonstrates the deployment and management of a cloud-native microservices application using Kubernetes. The project focuses on showcasing core orchestration features such as self-healing, dynamic scaling, and rolling updates.
 
-![Kubernetes online site](<img width="1684" height="893" alt="kubernetes" src="https://github.com/user-attachments/assets/c0a68bde-dd59-4544-a513-7c49c7073031" />
-)
 
 🚀 Project Overview
 The application used is the Online Boutique, a web-based e-commerce demo consisting of 12 tiered microservices. The services communicate via gRPC and handle various tasks like product catalog management, currency conversion, and payment processing.
@@ -51,3 +49,6 @@ kubectl apply -f ./release/kubernetes-manifests.yaml
 To access the web frontend, run the following command to create a tunnel:
 
 minikube service frontend
+
+# SITE ONLINE BOUTIQUE
+<img width="1684" height="893" alt="kubernetes" src="https://github.com/user-attachments/assets/4abe6848-ffcd-4eef-9fd7-d68465c5c258" />
