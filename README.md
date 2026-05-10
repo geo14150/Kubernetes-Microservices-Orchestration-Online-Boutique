@@ -48,16 +48,17 @@ kubectl apply -f ./release/kubernetes-manifests.yaml
 # Kubernetes Pods Status
 <img width="854" height="381" alt="getpods" src="https://github.com/user-attachments/assets/f2581107-b5d3-4c7d-a5e6-ab9f336595f5" />
 
-
+<br>
 4. Running the Application
 To access the web frontend, run the following command to create a tunnel:
 
 minikube service frontend
 
+<br>
 # SITE ONLINE BOUTIQUE
 <img width="1684" height="893" alt="kubernetes" src="https://github.com/user-attachments/assets/4abe6848-ffcd-4eef-9fd7-d68465c5c258" />
 
-
+<br> 
 This following diagram visualizes the communication flow within the Online Boutique cloud-native application. 
 Understanding this architecture is crucial to grasping how Kubernetes coordinates these 12 distinct service tiers.
 
