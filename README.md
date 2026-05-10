@@ -56,3 +56,11 @@ minikube service frontend
 
 # SITE ONLINE BOUTIQUE
 <img width="1684" height="893" alt="kubernetes" src="https://github.com/user-attachments/assets/4abe6848-ffcd-4eef-9fd7-d68465c5c258" />
+
+
+This following diagram visualizes the communication flow within the Online Boutique cloud-native application. 
+Understanding this architecture is crucial to grasping how Kubernetes coordinates these 12 distinct service tiers.
+
+<img width="662" height="308" alt="image" src="https://github.com/user-attachments/assets/27fa52e6-0f4b-4f41-a873-d4f86410e03e" />
+
+
