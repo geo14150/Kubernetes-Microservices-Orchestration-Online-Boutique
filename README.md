@@ -48,6 +48,7 @@ kubectl apply -f ./release/kubernetes-manifests.yaml
 # Kubernetes Pods Status
 <img width="854" height="381" alt="getpods" src="https://github.com/user-attachments/assets/f2581107-b5d3-4c7d-a5e6-ab9f336595f5" />
 
+
 4. Running the Application
 To access the web frontend, run the following command to create a tunnel:
 
